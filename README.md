@@ -22,18 +22,6 @@ Este projeto foi desenvolvido para ensinar e praticar:
 - **JavaScript (ES6+)**: Linguagem de programação utilizada no projeto.
 - **CSS**: Para estilização da interface.
 
-### 📂 Estrutura do Projeto
-
-A estrutura principal do projeto é a seguinte:
-src/ 
-├── App.jsx # Componente principal do aplicativo 
-├── Pergunta.jsx # Componente para exibir perguntas e opções 
-├── Resultado.jsx # Componente para exibir o resultado final 
-├── questions.jsx # Banco de perguntas e respostas 
-├── App.css # Estilos globais do aplicativo 
-└── main.jsx # Ponto de entrada do React
-
-
 ### 🛠️ Como Executar o Projeto
 
 1. Certifique-se de ter o **Node.js** instalado em sua máquina.
